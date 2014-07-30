@@ -1,0 +1,8 @@
+me    'puppet-oxidce'
+version '0.1.0'
+source 'UNKNOWN'
+author 'BjoernSchotte'
+license 'GPL v3 or later'
+summary 'OXID CE Development Environment'
+description 'Setup OXID CE with MySQL and Apache via puppet'
+project_page 'http://www.oxidforge.org/'
